@@ -1,6 +1,5 @@
-<div align="center"> <video src="https://github.com/user-attachments/assets/417214fa-3dc0-4897-910e-02fb347d4a49" width="100%" autoplay loop muted>
-  
-</video> <p><i>Python Network Sniffer Demo</i></p> </div> 
+<div align="center"> <video src="https://github.com/user-attachments/assets/417214fa-3dc0-4897-910e-02fb347d4a49" width="100%" autoplay loop muted></video> <p><i>Python Network Sniffer Demo</i></p> </div> 
+
 # Python Network Sniffer 
 
 A lightweight, cross-platform network packet sniffer written in Python using the Scapy engine. This tool captures, unpacks, and analyzes live network traffic, breaking down packets into readable data structures across the IPv4, TCP, UDP, and ICMP protocols.
